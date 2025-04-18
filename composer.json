@@ -2,9 +2,6 @@
   "name": "CameraAPI",
   "description": "a PocketMine-MP API to use CameraPacket",
   "type": "library",
-  "require": {
-    "pocketmine/pocketmine-mp": "^5.0.0"
-  },
   "autoload": {
     "classmap": ["src"]
   },
